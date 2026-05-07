@@ -1,3 +1,5 @@
-# examples
+# Slate Examples
 
-A Luma project.
+Example Slate programs demonstrating language features.
+
+Run with `slate run source/<filename>.slt`
